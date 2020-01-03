@@ -1,0 +1,3 @@
+                                                       ____________
+  Voulez vous ajouter un autre voiture:               |            |
+                                                      |____________|
